@@ -1,0 +1,35 @@
+commit d6020967a8c2c446225293d9491bafc7f46821ea
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Tue Jul 1 14:02:31 2025 +0800
+
+    finish all task
+
+commit 6da7774061bfbc8c659bbf641dca9ff33e3d9834
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Tue Jul 1 13:48:12 2025 +0800
+
+    pass all test
+
+commit 40b0057a6dfc4c84caeac2a8a84bd7412d608d24
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Tue Jul 1 13:47:09 2025 +0800
+
+    pass 5 is buzz
+
+commit 3895eb2681c1b231763c76c7b8750f25626aaa35
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Tue Jul 1 13:46:33 2025 +0800
+
+    pass 3 is fizz
+
+commit c52ee17b7de02f6b647284ca9b137e2af200a3e3
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Mon Jun 30 14:00:48 2025 +0800
+
+    ✨feat : create wek1 floder
+
+commit bf7f8db351c3be893e05e4427e25a1d274c66de0
+Author: YOO_koishi <2358181935@qq.com>
+Date:   Mon Jun 30 13:50:53 2025 +0800
+
+    first commit
