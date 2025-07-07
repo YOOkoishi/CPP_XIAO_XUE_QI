@@ -1,0 +1,7 @@
+{
+    cmdlines = {
+        "xmake f --verbose --yes -y -c --plat=linux --arch=x86_64 --mode=release --kind=static --cxflags=-fPIC --builddir=build_ffe1b030",
+        "xmake build --verbose --yes --jobs=18",
+        "xmake install -y --nopkgs -o /home/yoo/.xmake/packages/g/gtest/v1.16.0/ffe1b0301af44c69a4cb67d57595b02c --verbose --yes"
+    }
+}

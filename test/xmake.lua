@@ -1,0 +1,23 @@
+            target("gtest")
+                set_kind("static")
+                set_languages("cxx14")
+                add_files("googletest/src/gtest-all.cc")
+                add_includedirs("googletest/include", "googletest")
+                add_headerfiles("googletest/include/(**.h)")
+
+            target("gtest_main")
+                set_kind("static")
+                set_languages("cxx14")
+                set_default(false)
+                add_files("googletest/src/gtest_main.cc")
+                add_includedirs("googletest/include", "googletest")
+                add_headerfiles("googletest/include/(**.h)")
+
+            target("gmock")
+                set_kind("static")
+                set_languages("cxx14")
+                set_default(true)
+                add_files("googlemock/src/gmock-all.cc")
+                add_includedirs("googlemock/include", "googlemock", "googletest/include", "googletest")
+                add_headerfiles("googlemock/include/(**.h)")
+        

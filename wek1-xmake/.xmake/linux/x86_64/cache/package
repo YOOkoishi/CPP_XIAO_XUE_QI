@@ -1,0 +1,11 @@
+{
+    gtest = {
+        version = "1.17.0",
+        __requirestr = "gtest",
+        __enabled = true,
+        shared = true,
+        defines = "GTEST_HAS_PTHREAD=1",
+        libfiles = "/usr/lib/libgtest.so",
+        links = "gtest"
+    }
+}

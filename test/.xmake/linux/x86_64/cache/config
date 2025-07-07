@@ -1,0 +1,15 @@
+{
+    options = {
+        kind = "static",
+        clean = true,
+        arch = "x86_64",
+        mode = "release",
+        builddir = "build_ffe1b030",
+        plat = "linux",
+        cxflags = "-fPIC"
+    },
+    mtimes = {
+        ["xmake.lua"] = 1751874918
+    },
+    recheck = false
+}
